@@ -11,7 +11,7 @@ sites:
   - name: Admin Page
     url: $ADMIN_PAGE
   - name: test google 404
-    url: https://www.google.com/
+    url: https://www.google.com/404
 
 status-website:
   baseUrl: /upptime
