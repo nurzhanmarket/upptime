@@ -73,22 +73,22 @@
   },
   {
     "name": "test google 404",
-    "url": "https://www.google.com/404",
+    "url": "https://www.google.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "test-google-404",
-    "status": "down",
-    "uptime": "99.43%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.43%",
-    "uptimeYear": "99.43%",
-    "time": 112,
-    "timeDay": 112,
-    "timeWeek": 112,
-    "timeMonth": 112,
-    "timeYear": 112,
+    "status": "up",
+    "uptime": "93.34%",
+    "uptimeDay": "93.34%",
+    "uptimeWeek": "93.34%",
+    "uptimeMonth": "93.34%",
+    "uptimeYear": "93.34%",
+    "time": 105,
+    "timeDay": 105,
+    "timeWeek": 105,
+    "timeMonth": 105,
+    "timeYear": 105,
     "dailyMinutesDown": {
-      "2023-11-16": 0
+      "2023-11-16": 3
     }
   }
 ]
