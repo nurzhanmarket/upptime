@@ -40,19 +40,19 @@
     "url": "$CATEGORY_PAGE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "3rd-level-category-page-smartphones",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1363,
-    "timeDay": 1442,
-    "timeWeek": 1363,
-    "timeMonth": 1363,
-    "timeYear": 1363,
+    "status": "up",
+    "uptime": "99.53%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.53%",
+    "time": 1325,
+    "timeDay": 1381,
+    "timeWeek": 1325,
+    "timeMonth": 1325,
+    "timeYear": 1325,
     "dailyMinutesDown": {
-      "2023-11-16": 0
+      "2023-11-16": 23
     }
   },
   {
