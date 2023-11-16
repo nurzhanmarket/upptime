@@ -77,18 +77,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "test-google-404",
     "status": "up",
-    "uptime": "89.82%",
-    "uptimeDay": "89.82%",
-    "uptimeWeek": "89.82%",
-    "uptimeMonth": "89.82%",
-    "uptimeYear": "89.82%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 108,
     "timeDay": 108,
     "timeWeek": 108,
     "timeMonth": 108,
     "timeYear": 108,
-    "dailyMinutesDown": {
-      "2023-11-16": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
