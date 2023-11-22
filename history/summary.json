@@ -63,19 +63,19 @@
     "url": "$ADMIN_PAGE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "admin-page",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "98.70%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 4126,
-    "timeDay": 14243,
-    "timeWeek": 4634,
-    "timeMonth": 4126,
-    "timeYear": 4126,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "97.44%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
+    "time": 5064,
+    "timeDay": 17431,
+    "timeWeek": 5761,
+    "timeMonth": 5064,
+    "timeYear": 5064,
     "dailyMinutesDown": {
-      "2023-11-22": 19
+      "2023-11-22": 37
     }
   },
   {
