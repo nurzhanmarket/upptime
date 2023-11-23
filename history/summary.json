@@ -64,18 +64,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "admin-page",
     "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "96.59%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
+    "uptime": "99.74%",
+    "uptimeDay": "97.44%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.74%",
     "time": 6888,
     "timeDay": 25367,
     "timeWeek": 8220,
     "timeMonth": 6888,
     "timeYear": 6888,
     "dailyMinutesDown": {
-      "2023-11-22": 49
+      "2023-11-22": 37
     }
   },
   {
